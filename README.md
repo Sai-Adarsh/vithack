@@ -112,11 +112,11 @@
 
 ## Instructions 📋:
 
-### Python 📱
+### Python Webserver 📱
 * Run the web server before diving into ml model and healthapp.
 
 ### LSTM Model 📱
-* Start Python Webserver before running model.
+* Start python webserver before running model.
 * Load dataset insid "data" folder.
 * Run the model.
 
