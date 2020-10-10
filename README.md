@@ -26,7 +26,7 @@
 
 ### Demo URL 📱:
 
-* HealthApp Demo [Videp](https://drive.google.com/drive/folders/1u6ptoGiWfL-elHV3W7Hj9qzELWV0gKY-?usp=sharing) 📱
+* HealthApp Demo [video](https://drive.google.com/drive/folders/1u6ptoGiWfL-elHV3W7Hj9qzELWV0gKY-?usp=sharing) 📱
 * Pitch Video [url](https://drive.google.com/drive/folders/1KKL4NYFOdPf_3Yfyi9WsVEGbwVjOzJs3?usp=sharing)📱
 
 ### Architecture 😎: 
