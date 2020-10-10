@@ -19,6 +19,7 @@
 ### Our Solution 👨‍💻:
 <img src="https://github.com/Sai-Adarsh/vithack/blob/main/health-app/assets/icon.png" width="10%">
 
+* #### A Cross Platform Application that retrieves data sent by Python Server and ML Model and displays analytics, insights, & suggestions for the same.
 * LSTM Model 
 * Python web server
 * HealthApp
@@ -110,6 +111,10 @@
 ```
 
 ## Instructions 📋:
+
+### Python 📱
+* Run the web server before diving into ml model and healthapp.
+
 ### LSTM Model 📱
 * Start Python Webserver before running model.
 * Load dataset insid "data" folder.
