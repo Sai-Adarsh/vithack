@@ -3,7 +3,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
-<img src="https://media-fastly.hackerearth.com/media/hackathon/agbi-digital-healthtech-grand-challenge/images/4e1412d2d7-great_lakes_he_cover-01-01-01-01-01-01-01-01.png" width="100%">
+<img src="https://scontent.fmaa3-1.fna.fbcdn.net/v/t1.0-9/118156375_3208873299195381_3130606756898101489_o.png?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=kCD85wxlnIIAX-hochR&_nc_ht=scontent.fmaa3-1.fna&oh=fcc36cb424d576444a8efef03fe863ad&oe=5FA6A3A1" width="100%">
 
 ### Problem Statement 🤔:
 * ### Diagnosis Tagging for Digital Marketing:
@@ -17,21 +17,20 @@
 * To establish a perennial digital bridge between data and user
 
 ### Our Solution 👨‍💻:
-<img src="https://github.com/Sai-Adarsh/agbi-hackathon/blob/main/diagnosis-tagging/app/base/static/assets/img/icon.png" width="30%">
+<img src="https://github.com/Sai-Adarsh/vithack/blob/main/health-app/assets/icon.png" width="30%">
 
-* LSTM Model [Webapp](https://github.com/Sai-Adarsh/agbi-hackathon/tree/main/diagnosis-tagging)
-* Mehta's OCRApp
-* Mehta's PatientsApp
+* LSTM Model 
+* Python web server
+* HealthApp
 
 ### Demo URL 📱:
-* Mehta's Digital Marketing: [webapp](https://agbihackathon.herokuapp.com/) 💻
-* Mehta's OCRApp [apk](https://github.com/Sai-Adarsh/agbi-hackathon/raw/main/ocrapp/build/mehtaocrapp.apk) • [snack](https://expo.io/@saiadarsh99/mehta-ocr) 📱
-* Mehta's PatientsApp [apk](https://github.com/Sai-Adarsh/agbi-hackathon/raw/main/patients-sms-app/android/app/patients-sms-app.apk) 📱
+
+* HealthApp Demo [Videp](https://drive.google.com/drive/folders/1u6ptoGiWfL-elHV3W7Hj9qzELWV0gKY-?usp=sharing) 📱
+* Pitch Video [url](https://drive.google.com/drive/folders/1KKL4NYFOdPf_3Yfyi9WsVEGbwVjOzJs3?usp=sharing)📱
 
 ### Architecture 😎: 
 
 <img src="https://github.com/Sai-Adarsh/agbi-hackathon/blob/main/diagnosis-tagging/architecture.png" width="90%">
-<img src="https://github.com/Sai-Adarsh/agbi-hackathon/blob/main/diagnosis-tagging/architecture(1).png" width="90%">
 
 ### Tech Stacks ⚛️:
 
